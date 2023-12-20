@@ -1,4 +1,4 @@
-/* var myName = prompt(' Write your name... ')
+ var myName = prompt(' Write your name... ')
 console.log(myName)
 
 
@@ -28,7 +28,13 @@ var task5 = prompt ( '15 / 4 = ')
 console.log( 'solution: 15 / 4 = 3 с остатком 3 your answer:' + task5) 
 
 var check = 'open console in order to check your answers...'
-alert(check) */
+alert(check) 
+
+
+var second = 'второе задание'
+alert(second)
+
+
 
 var x = +prompt('введите любое число(1)')
 var y = +prompt('введите любое число(2)')
